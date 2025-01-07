@@ -32,3 +32,6 @@ Thumbs.db
 .env
 # Git files
 *.orig
+
+# Ignore the cache folder
+.cache/
